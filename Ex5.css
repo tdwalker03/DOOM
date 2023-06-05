@@ -1,0 +1,61 @@
+body {
+    background-color: #f1f1f1;
+    color: black;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .heading1 {
+        color: rgb(0, 0, 0);
+        text-align: center;
+        text-shadow: 2px 2px 2px gray;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+    }
+
+    .heading2 {
+        color: black;
+        text-align: left;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .button {
+        background-color: #007bff;
+        border: none;
+        color: white;
+        padding: 7px 50px;
+        text-align: center;
+        font-weight: bold;
+        display: inline-block;
+        font-size: 14px;
+        border-radius: 4px;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+
+    ul{
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-left: 25px;
+    }
+
+    .jobtable {
+        background-color: #f9f9f9;
+        width: 150px;
+        height: 175px;
+        padding: 10px;
+        border: 0px;
+        margin: 0px;
+        box-shadow: 0px 2px 5px 0px;
+    }
+
+    h3{
+        font-weight: bold;
+        margin: 0px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+
+    .centerbutton {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
